@@ -50,27 +50,6 @@ It showcases a professional engineering and manpower service provider — presen
 
 ---
 
-## 📂 Project Structure
-
-/ (jrengineeringenterprises)
-|-- index.html
-|-- about.html
-|-- services.html
-|-- enquiry.html
-|-- contact.html
-|-- assets/
-|     |-- css/
-|     |     └── styles.css
-|     |-- js/
-|     |     └── main.js
-|     |-- images/
-|           └── service1.png, logo.svg, etc.
-|-- README.md
-|-- LICENSE
-
-
----
-
 ## 🎨 Design Highlights
 
 - 🧭 **Simple Navigation Bar** — easy access to all pages  
@@ -85,7 +64,7 @@ It showcases a professional engineering and manpower service provider — presen
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/jrengineeringenterprises.git
+git clone https://github.com/Annepuuday111/JrEngineeringEnterprises.git
 
 # Navigate to project directory
 cd jrengineeringenterprises
