@@ -83,26 +83,6 @@ It presents a professional engineering and manpower service provider, showcasing
 
 ---
 
-## 🎨 Design Highlights  
-<table>
-<tr>
-<td width="70%" valign="top">
-
-- 🧭 **Navigation Bar** — simple and intuitive access to all pages  
-- 📸 **Service Banners** — engineering-themed visuals  
-- 💬 **Interactive Enquiry Form** — quick client communication  
-- 🧱 **Clean Layout** — consistent alignment and spacing  
-- ⚡ **Optimized Performance** — fast-loading assets  
-
-</td>
-<td width="30%" align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/icons8-terminal.gif" width="250px" alt="Design highlights animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
-</td>
-</tr>
-</table>
-
----
-
 ## 🔧 How to Run Locally  
 
 ```bash
