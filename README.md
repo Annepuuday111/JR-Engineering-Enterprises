@@ -26,19 +26,6 @@ It showcases a professional engineering and manpower service provider — presen
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Replace the links below with actual screenshots from your deployed site)*
-
-| Page | Preview |
-|------|----------|
-| 🏠 **Home Page** | ![Home Page Screenshot](https://via.placeholder.com/1000x500?text=JR+Engineering+Home) |
-| 🛠️ **Services Section** | ![Services Screenshot](https://via.placeholder.com/1000x500?text=JR+Engineering+Services) |
-| 📩 **Enquiry Form** | ![Enquiry Screenshot](https://via.placeholder.com/1000x500?text=JR+Engineering+Enquiry+Form) |
-| 📞 **Contact Page** | ![Contact Screenshot](https://via.placeholder.com/1000x500?text=JR+Engineering+Contact) |
-
----
-
 ## 🧱 Tech Stack
 
 | Technology | Description |
