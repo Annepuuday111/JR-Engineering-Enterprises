@@ -32,7 +32,7 @@ It presents a professional engineering and manpower service provider, showcasing
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250px" alt="Engineering animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
+  <img src="https://media.giphy.com/media/3ov9jJ0BJrYdpKxQpO/giphy.gif" width="250px" alt="Engineering Workflow" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
 </tr>
 </table>
@@ -46,16 +46,16 @@ It presents a professional engineering and manpower service provider, showcasing
 
 | 🧩 Feature | 📋 Description |
 |-------------|----------------|
-| **🏠 Home Page** | Clean and engaging landing section with navigation to all pages. |
+| **🏠 Home Page** | Clean landing page with modern engineering visual elements. |
 | **🏢 About Us** | Company overview, mission, and values presented clearly. |
-| **🛠️ Services** | Manpower supply, contractor services, engineering, electrical, instrumentation, process & maintenance, and erection works. |
+| **🛠️ Services** | Engineering, manpower supply, contractor services, electrical, instrumentation, and maintenance. |
 | **📩 Enquiry Form** | Interactive form for client engagement. |
 | **📞 Contact Page** | Displays company contact information including phone and email. |
 | **📱 Responsive Design** | Fully compatible with all devices (mobile, tablet, desktop). |
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="250px" alt="Features animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
+  <img src="https://media.giphy.com/media/3o7TKxRE9Yx2YZYhzy/giphy.gif" width="250px" alt="Engineering services animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
 </tr>
 </table>
@@ -69,14 +69,14 @@ It presents a professional engineering and manpower service provider, showcasing
 
 | Technology | Description |
 |-------------|--------------|
-| 🧾 **HTML5** | Semantic and structured content layout |
-| 🎨 **CSS3** | Styling, colors, animations, responsive layout |
-| ⚙️ **JavaScript (Vanilla)** | Dynamic interactions, form handling, and user behavior |
-| 🌍 **Vercel Hosting** | Fast, global deployment with modern CI/CD pipeline |
+| 🧾 **HTML5** | Semantic structure for all web pages |
+| 🎨 **CSS3** | Layout, styling, responsive grids, and animations |
+| ⚙️ **JavaScript (Vanilla)** | Dynamic content, interactivity, and form handling |
+| 🌍 **Vercel Hosting** | Fast and secure hosting with modern CI/CD |
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalB4i3e2w/giphy.gif" width="250px" alt="Tech stack animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
+  <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="250px" alt="Web development animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
 </tr>
 </table>
@@ -88,15 +88,15 @@ It presents a professional engineering and manpower service provider, showcasing
 <tr>
 <td width="70%" valign="top">
 
-- 🧭 **Simple Navigation Bar** — Easy access to all pages  
-- 📸 **Service Banners** — Vivid visuals representing each department  
-- 💬 **Interactive Enquiry Form** — Quick client communication  
-- 🧱 **Clean Layout** — Consistent alignment and spacing  
-- ⚡ **Optimized Performance** — Lightweight assets for faster loading  
+- 🧭 **Navigation Bar** — simple and intuitive access to all pages  
+- 📸 **Service Banners** — engineering-themed visuals  
+- 💬 **Interactive Enquiry Form** — quick client communication  
+- 🧱 **Clean Layout** — consistent alignment and spacing  
+- ⚡ **Optimized Performance** — fast-loading assets  
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250px" alt="Design highlights animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
+  <img src="https://media.giphy.com/media/3o7TKMvAULJX52g5eY/giphy.gif" width="250px" alt="Design highlights animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
 </tr>
 </table>
