@@ -32,7 +32,7 @@ It presents a professional engineering and manpower service provider, showcasing
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/3ov9jJ0BJrYdpKxQpO/giphy.gif" width="250px" alt="Engineering Workflow" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px" alt="Engineering Workflow" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
 </tr>
 </table>
@@ -55,7 +55,7 @@ It presents a professional engineering and manpower service provider, showcasing
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/3o7TKxRE9Yx2YZYhzy/giphy.gif" width="250px" alt="Engineering services animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="250px" alt="Engineering services animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
 </tr>
 </table>
@@ -76,7 +76,7 @@ It presents a professional engineering and manpower service provider, showcasing
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="250px" alt="Web development animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Web development animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
 </tr>
 </table>
@@ -96,7 +96,7 @@ It presents a professional engineering and manpower service provider, showcasing
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/3o7TKMvAULJX52g5eY/giphy.gif" width="250px" alt="Design highlights animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/icons8-terminal.gif" width="250px" alt="Design highlights animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
 </td>
 </tr>
 </table>
