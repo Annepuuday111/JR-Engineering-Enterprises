@@ -54,9 +54,6 @@ It presents a professional engineering and manpower service provider, showcasing
 | **📱 Responsive Design** | Fully compatible with all devices (mobile, tablet, desktop). |
 
 </td>
-<td width="30%" align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="250px" alt="Engineering services animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,163,0.4);"/>
-</td>
 </tr>
 </table>
 
